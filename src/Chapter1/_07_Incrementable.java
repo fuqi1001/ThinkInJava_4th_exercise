@@ -30,6 +30,7 @@ public class _07_Incrementable {
     }
 }
 /*
+output:
 StaticTest.i = 47
 st1.i = 47
 st2.i = 47
