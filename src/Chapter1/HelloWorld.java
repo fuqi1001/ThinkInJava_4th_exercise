@@ -1,4 +1,4 @@
-package Everything.is.an.Object;
+package Chapter1;
 
 /**
  * Created by qifu on 17/5/25.
