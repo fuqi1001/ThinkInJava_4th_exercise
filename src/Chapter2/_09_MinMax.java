@@ -15,6 +15,13 @@ public class _09_MinMax {
         System.out.println("Max float = " + maxf);
         float minf = java.lang.Float.MIN_VALUE;
         System.out.println("Min float = " + minf);
-        
+
     }
 }
+/*
+output:
+Max double = 1.7976931348623157E308
+Min double = 4.9E-324
+Max float = 3.4028235E38
+Min float = 1.4E-45
+ */
