@@ -42,5 +42,9 @@ public class _05_DogTest {
         dog2.showName();
         dog2.showSpeak();
 
+        //exercise 6
+        Dog dog3 = dog1;
+        System.out.println("Test ==: " + (dog3 == dog1));
+        System.out.println("Test equals: " + dog3.equals(dog1));
     }
 }
