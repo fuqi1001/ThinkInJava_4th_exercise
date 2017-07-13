@@ -49,6 +49,6 @@ public class _11_Sandwich extends PortableLunch{
         System.out.println("Create Sandwich");
     }
     public static void main(String[] args) {
-        new Sandwich();
+        new _11_Sandwich();
     }
 }
