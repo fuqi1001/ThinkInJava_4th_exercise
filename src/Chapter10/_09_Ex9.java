@@ -19,6 +19,7 @@ public class _09_Ex9 {
     }
     public static void main(String[] args) {
         _09_Ex9 ex = new _09_Ex9();
+        //ex.f() 得到的是接口的引用
         ex.f().say("hi");
     }
 }
